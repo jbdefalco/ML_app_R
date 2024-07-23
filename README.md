@@ -8,6 +8,10 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/jbdefalco/ML_app_R/main
 
+Code for exercise created by Jason Brownlee and found here:
+
+https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
+
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
 depend, specified as though they were created using the following `conda` commands:
